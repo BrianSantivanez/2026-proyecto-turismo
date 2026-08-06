@@ -19,3 +19,4 @@
 - Joel Perez Damian
 - Choque Huayta Carla Shecid
 - JORGE BENITEZ
+- María Isabel Conde Altamirano
